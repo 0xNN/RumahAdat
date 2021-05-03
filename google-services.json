@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413460355485",
+    "firebase_url": "https://rumahadat-021196.firebaseio.com",
+    "project_id": "rumahadat-021196",
+    "storage_bucket": "rumahadat-021196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413460355485:android:d106cb82a8726651c63774",
+        "android_client_info": {
+          "package_name": "com.sendi.rumahadat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413460355485-d8ln8ssl89l91b2ba6oig1tbtgkh0oj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sendi.rumahadat",
+            "certificate_hash": "d792c251073037fac2a19d832b9e14d7a6269e23"
+          }
+        },
+        {
+          "client_id": "413460355485-ltdl7i1de014u758nd1a2cofcfdgan0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAESM6zlN_p3_joA3cBi7oWHS0MA5icy0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413460355485-ltdl7i1de014u758nd1a2cofcfdgan0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

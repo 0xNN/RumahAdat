@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RAIn</string>
+    <string name="nama_rumah">Nama Rumah</string>
+    <string name="detail">Detail</string>
+    <string name="detailT">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="gambar_rumah">Gambar Rumah</string>
+    <string name="title">MUHAMMAD SENDI NOVIANSYAH</string>
+    <string name="email">sendinoviansyah02@gmail.com</string>
+    <string name="motivasi">Engkau tak dapat meraih ilmu kecuali dengan enam hal yaitu; cerdas, selalu ingin tahu, tabah, punya bekal dalam menuntut ilmu, bimbingan dari guru, dan dalam waktu yang lama. – Ali bin Abi Thalib</string>
+    <string name="rumah_adat_indonesia">RUMAH ADAT INDONESIA</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_utama">Activity_utama</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="add_data">Add Data</string>
+    <string name="cari">Cari</string>
+</resources>
